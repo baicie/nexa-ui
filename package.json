@@ -21,7 +21,7 @@
     "rust:clippy": "cargo clippy --workspace --all-targets -- -D warnings"
   },
   "devDependencies": {
-    "prettier": "^3.6.2",
+    "prettier": "^3.9.8",
     "typescript": "^5.9.2"
   }
 }
